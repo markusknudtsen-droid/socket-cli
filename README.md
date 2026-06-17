@@ -1,5 +1,5 @@
 # Socket CLI
-
+=memescopebot/https://dashboard.helius.dev/d3fdaf2c-3699-4faf-bbd5-755b52778c5d/dashboard
 [![Socket Badge](https://socket.dev/api/badge/npm/package/socket)](https://socket.dev/npm/package/socket)
 [![CI](https://github.com/SocketDev/socket-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/SocketDev/socket-cli/actions/workflows/ci.yml)
 ![Coverage](https://img.shields.io/badge/coverage-75.08%25-brightgreen)
