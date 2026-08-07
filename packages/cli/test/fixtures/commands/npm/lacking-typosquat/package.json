@@ -2,5 +2,9 @@
   "private": true,
   "dependencies": {
     "bowserify": "^10.2.1"
+  },
+  "scripts": {
+    "postinstall": "npx @socketsecurity/socket-patch apply --silent --ecosystems npm",
+    "dependencies": "npx @socketsecurity/socket-patch apply --silent --ecosystems npm"
   }
 }
