@@ -21,8 +21,8 @@ allowBuilds:
 pmOnFail: error
 
 catalog:
-  '@anthropic-ai/claude-code': 2.1.98
-  '@babel/core': 7.28.4
+  '@anthropic-ai/claude-code': 2.1.163
+  '@babel/core': 7.29.6
   '@babel/generator': 7.28.5
   '@babel/parser': 7.28.4
   '@babel/plugin-proposal-export-default-from': 7.27.1
@@ -175,7 +175,7 @@ catalog:
   unplugin-purge-polyfills: 0.1.0
   # vite 8.0.14 swaps esbuild → rolldown natively; the override forces its
   # bundled rolldown up to the catalog's 1.0.3.
-  vite: 8.0.14
+  vite: 8.0.16
   vitest: 4.1.8
   wrap-ansi: 9.0.2
   xml2js: 0.6.2
